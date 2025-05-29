@@ -1,0 +1,6 @@
+IFS(
+ [4.3 Collaborative & Communication (report writing)] = "Beginning", 1,
+[4.3 Collaborative & Communication (report writing)] = "Developing", 2,
+  [4.3 Collaborative & Communication (report writing)]= "Proficient", 3,
+[4.3 Collaborative & Communication (report writing)]= "Excellent", 4,
+)
